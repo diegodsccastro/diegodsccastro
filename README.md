@@ -2,7 +2,7 @@
 
 ♾️ Eu sou um **DevOps/Platform Engineer** em formação. ☁️
 
-🌐 Sou entusiasta da cultura DevOps, infraestrutura como código (IaC), metodologias ágeis, cloud computing e multcloud. Também valorizo a construção de relacionamentos colaborativos.
+🌐 Sou entusiasta da cultura DevOps, infraestrutura, segurança, metodologias ágeis, cloud computing e multcloud. Também valorizo a construção de relacionamentos colaborativos para a entrega de projetos de alta qualidade.
   
 <div style="display: inline_block"><br>
 
