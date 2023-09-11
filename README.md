@@ -1,16 +1,13 @@
-### Hi there 👋
+## Oi, eu sou o Diego Castro
 
-<!--
-**diegodsccastro/diegodsccastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem vindo(a) ao meu GitHub!
 
-Here are some ideas to get you started:
+♾️ Eu sou um **DevOps/Platform Engineer** em formação. ☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Sou entusiasta da cultura DevOps, infraestrutura como código (IaC), metodologias ágeis, computação em cloud e multcloud. Também valorizo a construção de relacionamentos colaborativos.
+
+<div align="center">
+  <a href="https://github.com/diegodsccastro">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diegodsccastro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diegodsccastro&layout=compact&langs_count=7&theme=gotham"/>
+</div>
