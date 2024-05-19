@@ -2,16 +2,13 @@
 
 ♾️ Eu sou um **DevOps/Platform Engineer** em formação. ☁️
 
-🌐 Sou entusiasta da cultura DevOps, infraestrutura, segurança, metodologias ágeis, cloud computing e multcloud. Também valorizo a construção de relacionamentos colaborativos para a entrega de projetos de alta qualidade.
+🌐 Sou entusiasta da cultura DevOps, infraestrutura, segurança, metodologias ágeis, cloud computing e multcloud. Também valorizo a construção de relacionamentos colaborativos para a entrega de projetos de alta qualidade, segurança e performace. 
   
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Diego-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Diego-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Diego-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Diego-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Diego-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Diego-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Diego-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
   <img align="center" alt="Diego-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="Diego-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
